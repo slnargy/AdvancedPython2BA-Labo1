@@ -10,6 +10,7 @@ def fact(n):
 	Post: Returns the factorial of 'n'.
 	Throws: ValueError if n < 0
 	"""
+	# Salut
 	if n < 0 :
 		raise ValueError()
 	if n == 0 :
